@@ -1,0 +1,139 @@
+[
+	{
+		"Head": {
+			"BsnSeqNo": "G2006122253552118758",
+			"CnlTp": "",
+			"CnsmrSeqNo": "S2006122253552118758",
+			"CnsmrSysId": "500100",
+			"FileFlg": "0",
+			"FileNm": "",
+			"FilePath": "",
+			"InstId": "50701",
+			"PvdrSysId": "900100",
+			"RetCd": "000000",
+			"RetMsg": "交易成功",
+			"SrcCnsmrSeqNo": "S2006122253552118758",
+			"SvcCd": "20230002",
+			"SvcScn": "01",
+			"SvcVerNo": "",
+			"TlrNo": "000101",
+			"TxnDt": "20200612",
+			"TxnSt": "S",
+			"TxnTm": "225355"
+		},
+		"Body": {
+			"ActCntrlPrsnNm": "",
+			"ActRcvCptl": "100000.000000",
+			"AddrInfArry": [
+				{
+					"AdrID": "21030110000000001011",
+					"AdrTp": "09",
+					"DtlAddr": "北京市市辖区东城区",
+					"LastModTm": "2016-10-10 18:17:26.000",
+					"Pstcd": "100000"
+				},
+				{
+					"AdrID": "30013000000000000156",
+					"AdrTp": "99",
+					"CityNm": "110101",
+					"CtyCd": "CHN",
+					"DtlAddr": "北京市市辖区东城区",
+					"LastModTm": "2030-06-26 01:00:00.000",
+					"ProvCityDstc": "11",
+					"Pstcd": "100000"
+				}
+			],
+			"BlngOtlts": "",
+			"BscAcctNo": "310066124018010057881",
+			"BscAcctOpnBnk": "上海交通银行德平路支行",
+			"CoBlngIdyCd": "A0111",
+			"CoBlngIdyCd1": "A0111",
+			"CoBlngIdyCd2": "A0111",
+			"CoIntrdc": "",
+			"CoTotAstAmt": "1000000.000000",
+			"CorprtnScop": "",
+			"CstCtcPrsnInfArry": [
+				{
+					"IdentNo": "430203196809140014",
+					"NtrPrsnIdentTp": "0",
+					"NtrPrsnNm": "黄建",
+					"RltNoID": "21010820000000000251",
+					"RltnpRcrdNo": "21020120000000000251",
+					"RltnpTp": "101"
+				},
+				{
+					"IdentNo": "430203196809140014",
+					"NtrPrsnIdentTp": "0",
+					"NtrPrsnNm": "黄建",
+					"RltNoID": "21010820000000000250",
+					"RltnpRcrdNo": "21020120000000000250",
+					"RltnpTp": "103"
+				}
+			],
+			"CstCtgry": "202",
+			"CstEnNm": "",
+			"CstIdentInfArry": [
+				{
+					"IdentIdnxId": "21010210000000000949",
+					"IdentInvalDt": "99991231",
+					"IdentNo": "FF361827-2",
+					"IdentTkEffDt": "20010101",
+					"IdentTp": "201",
+					"IssuCtfOfcNtn": "CHN",
+					"PrfrChcIdentFlg": "N"
+				}
+			],
+			"CstMgrNm": "liyizhi",
+			"CstNo": "7000000439",
+			"CstShrtNm": "",
+			"CstTp1": "200",
+			"DmstRsdntFlg": "N",
+			"EleCtcArry": [],
+			"EmplyNum": "100",
+			"EntpNm": "中建UAT",
+			"EntpSbj": "02",
+			"EntpSclTp": "5",
+			"ExprtOprtnRghtFlg": "N",
+			"FIPrmt": "",
+			"InstTp": "10",
+			"LstdTp": "A",
+			"MainPd": "",
+			"NtPrvdRsn": "",
+			"Ntnty": "CHN",
+			"RelEntpInfArry": [],
+			"RelPrsnInfArry": [
+				{
+					"IdentNo": "230103195304241349",
+					"IvsAmt1": "2000000000.000000",
+					"IvsRto": "100.000000",
+					"NtrPrsnIdentTp": "0",
+					"NtrPrsnNm": "徐增增",
+					"RltNoID": "21010820000000000252",
+					"RltnpRcrdNo": "21020120000000000252",
+					"RltnpTp": "41001"
+				}
+			],
+			"Rmk3": "",
+			"RsdntEntpFlg": "N",
+			"SprCoNm": "",
+			"SprOrgInstNo": "",
+			"SteHldgUndrHlfFlg": "N",
+			"StirBrInstNum": "",
+			"TaxpyIdnfNo": "",
+			"TelInfoArry": [
+				{
+					"BestCtcTm": "",
+					"CityTelZoneCd": "",
+					"CtcTelId": "40400000000001000025",
+					"CtcTelTp": "20",
+					"CtyTelZoneCd": "",
+					"ExnNo": "",
+					"LastModTm": "2020-04-15 14:25:00.000",
+					"TelNo": "13526425321"
+				}
+			],
+			"TxtnOfcCtfyNo": "",
+			"YrSaleAmt": "100000.000000"
+		}
+	}
+]
